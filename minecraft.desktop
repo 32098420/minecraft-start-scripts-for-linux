@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Minecraft
+Comment=A small descriptive blurb about this application.
+Icon=/home/lukas/.minecraft/favicon.png
+Exec=/home/lukas/.minecraft/minecraft.sh
+Path=/home/lukas/.minecraft
+Terminal=false
+StartupNotify=false
+Categories=
+Name[en_US]=Minecraft
