@@ -1,0 +1,5 @@
+Note: This is not finished… And the scripts have only been tested on Fedora linux.
+
+$ cd .minecraft
+
+$ wget https://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
